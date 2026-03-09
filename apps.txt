@@ -1,0 +1,3 @@
+sudo pacman -S feh
+sudo pacman -S xcompmg
+
